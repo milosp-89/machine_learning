@@ -1,2 +1,2 @@
 # machine_learning
-various ds/ml scripts for supervized learning (regression and classification)
+various ds/ml scripts for supervised learning (regression and classification)
